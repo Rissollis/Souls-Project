@@ -1,0 +1,28 @@
+{
+    "itens": {
+        "weapons": {
+            "daggers": [
+                "Adaga Curta",
+                "Adaga Envenenada"
+            ],
+            "straightSwords": [
+                "Espada Longa",
+                "Broadsword"
+            ],
+            "greatSwords": [
+                "Claymore",
+                "Zweihander"
+            ]
+        },
+        "armors": [
+            "Armadura Pesada",
+            "Robe de Mago",
+            "Armadura de Couro"
+        ],
+        "classes": [
+            "Warrior",
+            "Mage",
+            "Assassin"
+        ]
+    }
+}
